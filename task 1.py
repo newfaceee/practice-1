@@ -13,3 +13,5 @@ while a < b:
         sum = sum + a
         print('сумма: ', sum)
     a += 1
+
+print('dfas')
