@@ -15,3 +15,4 @@ while a < b:
     a += 1
 
 print('dfas')
+print('')
